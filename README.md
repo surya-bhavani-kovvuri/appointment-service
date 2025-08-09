@@ -16,8 +16,8 @@ The Appointment Service is a microservice in the SmartHealth ecosystem responsib
 - **JUnit 5** & **Jacoco**
 
 ## 📚 Documentation
-- [Running Locally](docs/Running-locally.md)
-- [Configuration](docs/Configuration.md)
+- [Running Locally](docs/running-locally.md)
+- [Configuration](docs/configuration.md)
 - [Testing](docs/testing.md)
 
 ## 📜 License
